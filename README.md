@@ -1,4 +1,4 @@
-```clojure
+```lisp
                         @@@                              Do stuff
               @@@@@@@@@%///%@@@@@@@@/                    Clojure enthusiast λ
           @@@@@/////////////////////@@@@@         
